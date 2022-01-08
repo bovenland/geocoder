@@ -1,0 +1,15 @@
+{
+  "name": "@allmaps/geocoder",
+  "version": "1.0.0",
+  "description": "Geocoder for Dutch addresses",
+  "main": "geocode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bert Spaan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "highland": "^2.13.5"
+  }
+}
