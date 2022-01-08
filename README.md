@@ -1,6 +1,6 @@
 # @allmaps/geocoder
 
-Uses geodata.nationaalgeoregister.nl to geocode Dutch addresses.
+Uses https://geodata.nationaalgeoregister.nl to geocode Dutch addresses.
 
 Example:
 
